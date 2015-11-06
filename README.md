@@ -1,4 +1,4 @@
-SpreeSimpleSales
+SpreeSales
 ================
 
 Introduction goes here.
