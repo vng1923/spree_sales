@@ -1,4 +1,4 @@
-SpreeSales
+SpreeSales - 1.0.0 - It's for Spree 2.3.3
 ================
 
 Introduction goes here.
